@@ -16,7 +16,7 @@ Note that in French (Canada) that key would also have "{". Since "{" is already 
 
 Here is a visual picture of the keymap, via GNOME Settings:
 
-![This is the keyboard layout](layout.png)
+![This is the keyboard layout](Layout.png)
 
 How to install
 --------------
