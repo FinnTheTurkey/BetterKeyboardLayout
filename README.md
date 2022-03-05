@@ -15,6 +15,7 @@ For example, the key that has " and ' in English (US) continues to be the same, 
 Note that in French (Canada) that key would also have "{". Since "{" is already easily accessible in English (US), there is no reason for the "better" keyboard layout to include it on that key.
 
 Here is a visual picture of the keymap, via GNOME Settings:
+
 ![This is the keyboard layout](layout.png)
 
 How to install
